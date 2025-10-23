@@ -1,0 +1,61 @@
+{
+  "base": {
+    "spot_vol_b": 284.0,
+    "deriv_vol_b": 150.0,
+    "total_vol_b": 434.0,
+    "take_bps": 23.0,
+    "take_dec": 0.0023,
+    "txn_rev_m": 998.1999999999999,
+    "usdc_rev_m": 322.848,
+    "staking_rev_m": 150.0,
+    "custody_rev_m": 24.57,
+    "interest_rev_m": 70.0,
+    "other_ss_rev_m": 120.0,
+    "ss_total_m": 687.418,
+    "other_rev_m": 80.0,
+    "total_rev_m": 1765.618
+  },
+  "bear": {
+    "spot_vol_b": 241.4,
+    "deriv_vol_b": 127.5,
+    "total_vol_b": 368.9,
+    "take_bps": 18.400000000000002,
+    "take_dec": 0.0018400000000000003,
+    "txn_rev_m": 678.7760000000001,
+    "usdc_rev_m": 284.10624,
+    "staking_rev_m": 132.0,
+    "custody_rev_m": 21.6216,
+    "interest_rev_m": 61.6,
+    "other_ss_rev_m": 105.6,
+    "ss_total_m": 604.9278400000001,
+    "other_rev_m": 68.0,
+    "total_rev_m": 1351.7038400000001
+  },
+  "bull": {
+    "spot_vol_b": 318.08000000000004,
+    "deriv_vol_b": 168.00000000000003,
+    "total_vol_b": 486.08000000000004,
+    "take_bps": 24.840000000000003,
+    "take_dec": 0.0024840000000000005,
+    "txn_rev_m": 1207.4227200000003,
+    "usdc_rev_m": 342.21888,
+    "staking_rev_m": 159.0,
+    "custody_rev_m": 26.0442,
+    "interest_rev_m": 74.2,
+    "other_ss_rev_m": 127.2,
+    "ss_total_m": 728.6630800000001,
+    "other_rev_m": 86.4,
+    "total_rev_m": 2022.4858000000004
+  },
+  "weights": {
+    "base": 0.6,
+    "bear": 0.2,
+    "bull": 0.2
+  },
+  "weighted": {
+    "total_revenue_m": 1734.208728,
+    "transaction_m": 976.159744,
+    "s_and_s_m": 679.168984,
+    "other_m": 78.88
+  }
+}

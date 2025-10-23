@@ -1,0 +1,9 @@
+- CryptoCompare Coinbase spot volume JSON — https://min-api.cryptocompare.com/data/exchange/histoday?e=Coinbase&tsym=USD&toTs=1759276799&limit=1000 (retrieved 2025-09-23 UTC) — daily spot volumes aggregated for Q3’25 with final week inferred via trailing 14-day average.
+- CoinGecko BTC price history — https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1751328000&to=1759363200 (retrieved 2025-09-23 UTC) — used for Q3 BTC average price and realized volatility.
+- CoinGecko ETH price history — https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1751328000&to=1759363200 (retrieved 2025-09-23 UTC) — used for Q3 ETH average price and realized volatility.
+- CoinGecko USDC market cap range — https://api.coingecko.com/api/v3/coins/usd-coin/market_chart/range?vs_currency=usd&from=1751328000&to=1759363200 (retrieved 2025-09-23 UTC) — proxy for average USDC supply.
+- FRED DGS3MO CSV — https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS3MO (retrieved 2025-09-23 UTC) — short rate proxy for USDC yield modeling.
+- FRED FEDFUNDS CSV — https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS (retrieved 2025-09-23 UTC) — corroborative short rate input.
+- DefiLlama cbETH TVL — https://api.llama.fi/protocol/coinbase-wrapped-staked-eth (retrieved 2025-09-23 UTC) — average Coinbase staking assets proxy.
+- Coinbase Q2’25 Shareholder Letter — local file Quarter 2/Q2-2025-Shareholder-Letter.pdf — source for transaction mix, custody AUC, derivatives commentary.
+- Coinbase Q1’25 Shareholder Letter — local file Quarter 1/Q1-25-Shareholder-Letter-1.pdf — source for USDC balance trends, staking commentary, derivatives run-rate.

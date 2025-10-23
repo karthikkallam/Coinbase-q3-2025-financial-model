@@ -1,0 +1,263 @@
+Coinbase Global, Inc. 
+First Quarter 2025 Analyst Call 
+May 8, 2025 
+
+Anil Gupta, Vice President, Investor Relations: Good afternoon, and welcome to the Coinbase First Quarter 2025 
+Analyst Q&A Call. Joining me on today's call is Alesia Haas, CFO. 
+
+Before we get started, I’d like to remind you that during today’s call, we may make forward-looking statements. Actual 
+results may vary materially from today’s statements. Information concerning risks, uncertainties, and other factors that 
+could cause these results to differ is included in our SEC filings. 
+
+Our discussion today will also include references to certain non-GAAP financial measures. Reconciliations to the most 
+directly comparable GAAP financial measures are provided in the Shareholder Letter on our Investor Relations website. 
+Non-GAAP financial measures should be considered in addition to, not as a substitute for, GAAP measures. 
+
+With that, Erik, let’s take our first question. 
+
+Operator: Your first question comes from the line of Chris Brendler with Rosenblatt.  
+
+Chris Brendler, Rosenblatt: So I would like to just narrow in on the blockchain revenue this quarter. I was expecting a 
+bigger sequential decline because the asset levels, based in US dollars, were down so significantly for both Ethereum and 
+Solana, which I believe would be the two largest tokens that would be staked. And so the positive, in my view, surprise 
+there, is that indicative of increased staking activity or was I thinking about it wrong in terms of the asset level being down 
+so sharply during the quarter? 
+
+Alesia Haas, CFO: We did see a decline in total native units staked early in January and February as people were looking 
+to take advantage of the higher price environment that we saw very early in the quarter. However, we returned to native 
+units being added late in the quarter. So the drivers as you note are total and native units, the underlying price of the 
+blockchains, and then the reward rates in your model might have been slightly high or higher than your model. 
+
+Chris Brendler, Rosenblatt: Yes, that's another change, but yeah, it still seems like not nearly as bad as I thought. 
+Something was positive in the quarter relative to… 
+
+Alesia Haas, CFO: I won't be able to diagnose it particularly, but we did not change our commission rates, and the total 
+native units was not materially changed quarter over quarter. 
+
+Chris Brendler, Rosenblatt: The other question I had was which may have already been answered. I'm multitasking with 
+phone calls, but the acquisition, Deribit, is it immediately available in the United States or is that going to take some time 
+to roll those products out in this country? 
+
+Alesia Haas, CFO: Great question. So we anticipate closing Deribit later this year. Closing is our goal for 2025. Working 
+on the integration for early 2026. But what I want to zoom out and share with you is our broader derivatives strategy, and 
+with that our broader trading strategy. This acquisition gives us the opportunity to bring options trading alongside with 
+listed futures, perpetual futures, and our spot trading. 
+
+Our ambition is to have that entire suite of products available to all customers around the world. That will take time. What 
+this acquisition brings is it marries our licenses in the US. So we have a US DCM, a derivatives license in the US with 
+their technology, they are options experts, and we can bring those building blocks together and build forward a US options 
+trading strategy. This is not going to happen this year. This will be a journey to bring us all of this global suite of products 
+to all customers around the world, but that is the ambition and we will take incremental steps to do so. 
+
+Operator: Your next question comes from the line of Gustavo Galá with Moness, Crespi, & Hardt. 
+
+Gustavo Galá, Moness, Crespi, & Hardt: Hey just wanted to ask a little bit about how we bake to the guidance in 
+subscription and services. How do we think about perhaps the growth in USDC? What's the market cap, how do we think 
+about the market cap assumptions around that? Do we kind of take the most recent quarter extrapolate that? Maybe BPM 
+velocity of that?  
+
+ 
+And then on staking similar to the prior question, just any color on the competitive environment there? Are you maybe 
+seeing peers tweak their commission pricing or anything there? I mean the quarter clearly healthier it seems than industry, 
+but just curious what you're seeing in the competitive environment, just thinking there are other companies that perhaps 
+are less diversified versus you? Just anything around that. Thank you. 
+
+Alesia Haas, CFO: We don't provide any more color on our outlook than what we provided in our shareholder letter and 
+my opening comments around the range of subscription and services revenue that we anticipate seeing. The added color 
+that we gave is we do see momentum and growth in USDC in that overall market cap, and we do see at least quarter to 
+date the decline in Solana and Ethereum price. These are dynamic markets. The price has changed a lot over the last 24 
+hours, and so we always plan for a wide range of market outcomes which is why we have a generally wide range on our 
+subscription and services. So we do capture the ability for price to move positive or negative within that range. 
+
+With regard to staking, we recently produced a blog that talked about our Ethereum staking and shared our market share 
+about what percent of overall Ethereum staking that we were, and gave a lot of transparency on our staking operations. 
+We are a leading staking infrastructure provider, and one of the few that offers the ability to stake to all customers (retail & 
+institutions) where we operate a delegated staking service and stake on their behalf.  We have unique technology in this 
+way that we can run 24/7 staking nodes, and we've had no slashing experience (i.e. we have not lost funds or had any 
+penalties on our staking operations) which we think is unique and differentiated. So customers choose us because of our 
+trust, our experience, and the breadth of staked offerings that we provide. 
+
+I would note to you that we had had states that prevented us to grow staking coming out of the SEC lawsuit and the 
+subsequent state actions. We're really pleased that five of those states dropped their action in this quarter, and we are 
+slowly making momentum to be able to grow staking now in more and more states and make it available to more and 
+more customers. We think we have a unique offering in this way in what we do and what we support. And we also then 
+offer tools through our developer platform to allow other people to stake using our technology. And so we are a service 
+provider direct to customers, and also to other companies who want to offer staking to their end customers. 
+
+Operator: Your next question comes from the line of Mike Colonnese with HC Wainwright. 
+
+Mike Colonnese, HC Wainwright: Hi, good afternoon. Thank you for taking my question. Curious how you guys are 
+monetizing your Bitcoin backed…tail side, and given the early success you've seen, do you have any plans or thoughts 
+about extending that offering to other assets in the future? 
+
+Alesia Haas, CFO: I'm sorry, you cut out a teeny bit. Are you talking about the Bitcoin backed loans that we announced 
+the DeFi loans?  
+
+Mike Colonnese, HC Wainwright: Yes.  
+
+Alesia Haas, CFO: So yes, early on in the year, we launched a product where customers can take the Bitcoin that is 
+stored on Coinbase and get a USDC loan on Morpho, and we offer this connectivity through a dapp that is built on Base. 
+So we are not directly monetizing that loan. We don't take credit risk. We don't have exposure for the underlying loan or 
+credit. But what we do benefit from is the indirect revenue. Base sequencer fees as morpho was built on Base. USDC 
+on-platform and off-platform revenue share because USDC is the collateral issued in return for the bitcoin that is lent.  
+
+So we are benefiting from the growth of the ecosystem and offering our customers on our platform more and more ways 
+to use their crypto. Whether through first-party products that we build, or third party products in the case of Morpho who is 
+offering this lending product. And yes, we would look to extend this. We're building an increasing amount of connectivity to 
+DeFi and opportunities for customers to engage with multiple transaction types and experiences in the DeFi universe. 
+
+Operator: Your next question comes from the line of Patrick Moley with Piper Sandler. 
+
+Patrick Moley, Piper Sandler: Thanks for taking the follow up. So not to beat a dead horse on the Deribit acquisition, I 
+understand that we're all hoping and waiting for favorable regulatory developments in the US, but as we sit here today, 
+what products does Deribit offer, outside of the spot crypto trading that is available and regulatory compliant that you could 
+cross-sell to your US customer base today? Thanks 
+
+Alesia Haas, CFO: Today there is no product that there offers that we could immediately introduce upon close in the US 
+market. The path to the US would be bringing our licenses and their product expertise together, and building an options 
+exchange in the US and leveraging our DCM. So there's a path…we have a clear path on how we would do it and that will 
+take time and sequencing within our product roadmap to bring options to the US customer base. 
+
+Operator: Your next question comes from the line of Benjamin Budish with Barclays.  
+
+Ben Budish, Barclays: Hi, thanks for taking the question. I had maybe two. First again on Deribit and sorry to ask it 
+again because I know it came up a little bit on the call, but could you clarify your comments around the enhancing of 
+profitability? I'm curious both from the context of what does it mean for Coinbase's EBITDA or EBITDA margin when 
+Deribit is part of the P&L, and also kind of how you think about the multiple paid for the business like what your return 
+hurdles are just given this is such a sizable one versus other M&A you've done. 
+
+Alesia Haas, CFO: We'll be able to share a lot more information as we get closer to close and we'll share the financial 
+impact as we close later this year. 
+
+Ben Budish, Barclays: Another question that maybe you may not answer because you haven't in the past, but I'll ask 
+anyway. Just on the futures side, given the volumes have grown so significantly into Q4 of last year, anything you can 
+share just in terms of the revenue contribution? As I understand it, those revenues are reported in transaction revenues, 
+but the volumes are not, those are just your spot volumes. And so for us trying to kind of figure out what are the various 
+mix impacts, just curious if there's anything you can share in terms of the size. It looks from your pricing disclosures it's 
+maybe like a low single-digit basis point fee rate. Perhaps lower with some of the rebates and incentives, but any kind of 
+sizing commentary would be helpful. 
+
+Alesia Haas, CFO: You're absolutely right. So one, derivatives revenue is reported in our institutional transaction revenue 
+and you're correct that it's not reported in our trading volume. So those are really important data points. Our focus right 
+now is actually driving open interest, driving trading volume, gaining market share, and so we are not focused on 
+monetization. And so my comments that I shared in my opening comments, we are providing incentives and rebates to 
+multiple market participants to drive and build the liquidity and the open interest in this product right now. So I wouldn't 
+look at revenue. We're not sharing the revenue, but it is not material because the rebates are contra revenue and offset 
+the revenue in that line item. 
+
+Operator: Your next question comes from the line of Pete Christensen with Citi. 
+
+Pete Christiansen, Citi: Hi, thanks again for doing this, Alesia and Anil. I want to touch upon I think it was Brian who 
+mentioned it, the B2B payments product that you're bringing live. I'm assuming that's through Circle’s recently announced 
+CPN network. I'm just curious if you think you have clientele that this would be really useful for at first, a use case specific 
+that you think would be really prime for this type of offering and anything you can talk about in terms of monetization that 
+would be helpful. Thank you. 
+
+Alesia Haas, CFO: Thank you. So just to echo Brian's comments, we are beginning to build a B2B payment product using 
+our own infrastructure. These are our products, our engineers, our build. We have many infrastructure pieces already 
+because we can have wallets, we have Base, we have USDC partnership and revenue share, and now we're building the 
+front end and abilities to leverage our banking rails around the world to build B2B payment products.  
+
+The majority of this monetization will come from holding the USDC on our platform or through the ecosystem through our 
+commercial arrangement. That is the path that we see monetizing most directly. We are going to be leveraging 
+permissionless blockchains and enabling these peer-to-peer instant settlement, low cost, very fast global payment rails to 
+offer this product to our customers over time. But importantly, early days, this is a pilot that we're working on in Q2 to really 
+start engaging with customers and we will learn more and build this out over the course of the year. 
+
+Operator: Your next question comes from the line of Owen Lau with Oppenheimer.  
+
+Owen Lau, Oppenheimer: Your second quarter tech and development, G&A, and marketing expense guidance could be 
+flat sequentially compared to the first quarter. Could you please talk about how much you can flex or expand when the 
+trading revenue and crypto market cap are under further pressure? What other levers can you pull to defend positive 
+adjusted EBITDA or GAAP EPS? 
+
+Alesia Haas, CFO: Thanks Owen. So as I noted in our comments, what grew the expenses quarter-over-quarter, was the 
+majority of the growth quarter quarter, was the three biggest buckets of variable expense within our tech and dev and 
+G&A are our infrastructure costs, the our customer support costs, which is a BPO model, business process outsourcing, 
+where we do have the ability to build that up or bring that down depending on market volume, depending on customer call 
+levels. Then marketing is really the third bucket. So that's outside of tech and dev and G&A. We do see variability 
+depending on trading volume. It is not one for one, there is a bit of a lag both in terms of as those expenses ramp post 
+volume and then they come down as volume comes down but we will be looking to make changes.  
+
+And then as I shared earlier, the range of outcomes we still anticipate this year, we definitely see variability in revenue 
+month-to-month as we see different headlines and macro events impacting overall consumer sentiment and, therefore, 
+our retail trading volume predominantly, but zooming out looking big picture we are still well within the scenarios that we 
+anticipated for 2025 and feel confident that we'll continue our hiring plans at this time given what we know about the 
+markets today. We see great near-term opportunities as we talked about on the call to build out some of these new 
+products, expanding on the USDC momentum that we see, building out the derivatives growth opportunities, both our own 
+platform and then with the future of combining options onto the platform. 
+
+So we do see nice growth opportunities that we'll continue to invest behind. But as we've learned through past markets, 
+we are prepared to be nimble and financially disciplined if the markets further dislocate and change based on more than 
+what we anticipate them changing today.  
+
+Operator: Your next question comes from the line of Alex Markgraff with Key Bank Capital Markets. 
+
+Alex Markgraff, KBCM: First, the derivatives volume number that was shared in the shareholder letter. Is there a 
+compare for that from the prior quarter or another period? 
+
+Alesia Haas, CFO: We did not share that number in a prior quarter, but what I would share with you is roughly for the full 
+year 2024 we were at $800 billion, and also for Q1 we were at $800 billion. So it is scaling nicely though we have not 
+shared a quarter-to-quarter trend. 
+
+Alex Markgraff, KBCM: Then maybe just a product one. Would you mind commenting on x402 and just sort of the vision 
+for that and how you scale something like that? 
+
+Alesia Haas, CFO: What I'll share about x402, this is a venture product for us. I'm really proud of this product because 
+this came from an internal product process we call Next Bets, where employees pitch ideas and then we fund small teams 
+to drive product innovation and growth. We have taken a policy to not talk about early stage venture products with 
+investors at this time because they are too young to be able to make a material impact to our business. So we have high 
+hopes that all of our venture products scale and grow. But as they get legs and as they kind of mature, we will talk to you 
+about them more publicly. 
+
+Operator: Your next question comes from the line of Bo Pei with US Tiger. 
+
+Bo Pei, US Tiger: For the sequential decline in institutional transaction revenue, how much of this is due to increased 
+rebates and incentives? Do you see this is temporary or is a structural shift in the pricing model? 
+
+Alesia Haas, CFO: Are you speaking about Q4 to Q1 or my comments on going from Q1 to Q2? 
+
+Bo Pei, US Tiger: The sequential decline from Q4 to Q1, and the kind of structural change. 
+
+Alesia Haas, CFO: Yes. The quick answer is the incentive and rebates had the most material impact to the sequential 
+decline in institutional transaction revenue and the change in the fee rate quarter over quarter. So we did increase our 
+incentive and rebate campaigns and programs as we enter 2025, and we think this is critical to building market share, the 
+open interest, the customers onboarding onto this platform. So we made a strategic decision to move in that direction. So 
+it's not a structural fee change in the underlying products. But it is driven by these rebate and incentive programs. 
+
+Bo Pei, US Tiger: Gotcha. So it is reasonable to assume that the fee rate is going to stay relatively low in the next couple 
+quarters, I guess? 
+
+Alesia Haas, CFO: That is fair, and that's why we shared with you that in Q2 we anticipate about $30 to $40 million of 
+rebates and incentives impacting that line item to kind of scope what that impact could be for  
+
+Anil Gupta, Vice President, Investor Relations: I think we have one more question in the queue. 
+
+Operator: Our final question comes from the line of Joe Vafi with Canacord Genuity.  
+
+Joseph Vafi, Canaccord Genuity: Good afternoon again and thanks for squeezing me in. Just wanted to circle back 
+Alesia to Brian's commentary on infrastructure. Obviously, people are going to start looking at this market more. You've 
+got some good infrastructure solutions. Do you envision exploiting the infrastructure market more broadly by offering the 
+services yourselves or do you see maybe a white label solution where your technology platforms could be something like 
+as a service that you could say custody a big bank doesn't want to develop their own custody solution you could 
+as-a-service it, sell it to them something like that is that part of the roadmap and the view on infrastructure or is it a little 
+different? Thanks. 
+
+Alesia Haas, CFO: You nailed it. Yes, we absolutely will white label our services. We refer to this product as crypto as a 
+service. And as I mentioned, we have over 200 institutional customers already using and leveraging our products. They're 
+leveraging our liquidity pools. They're leveraging ramps that we have. So, we are crypto experts and we are totally happy 
+to be B2B and have businesses build their end customer crypto solutions on our infrastructure. 
+
+Joe Vafi, Canaccord Genuity: And then at what point would that get broken out do you think as a revenue line? 
+
+Alesia Haas, CFO: We don't break it out as a revenue line because it monetizes in the way that (i.e. custody as an 
+example) will monetize through custodial fees. Trading monetizes through trading. And so if we change the pricing 
+structure such that it would be described in a different way in our financial statements, we will evaluate that over time. But 
+for now, it would not be broken out separately.  
+
+Anil Gupta, Vice President, Investor Relations: Okay, that'll do it for today. Thank you all for joining and we look 
+forward to speaking with you next quarter. 
+
+Operator: This concludes today's conference call. Thank you for joining us. You may now disconnect your lines. 
+
+

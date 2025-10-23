@@ -1,0 +1,318 @@
+Coinbase Global, Inc. 
+Second Quarter 2025 Analyst Q&A Call 
+July 31, 2025 
+
+Anil Gupta, Vice President, Investor Relations: Good afternoon and welcome to the Coinbase second 
+quarter 2025 Analyst Q&A call. Joining me on today's call is Alesia Haas, CFO. Before we get started, I'd like 
+to remind you that during today's call, we may make forward-looking statements. Actual results may vary 
+materially from today's statements. Information concerning risks, uncertainties, and other factors that could 
+cause these results to differ is included in our SEC filings. Our discussion today will also include references to 
+certain non-GAAP financial measures. Reconciliations to the most directly comparable GAAP financial 
+measures are included in our shareholder letter on our investor relations website. Non-GAAP financial 
+measures should be considered in addition to, not as a substitute for, GAAP measures. And with that, Krista, 
+let's take our first question. 
+
+Operator: Your first question comes from the line of Owen Lao with Oppenheimer. Please go ahead.  
+
+Owen Lau, Oppenheimer: Thank you for taking my question.  So from a modeling perspective, could you 
+please give us more color on the financials of Deribit? How profitable this business is, and should we think 
+about that acquisition?  
+
+Alesia Haas, CFO: Thanks, Owen. We have not provided any outlook on Deribit as it has not yet closed. We'll 
+provide more color on our third quarter earnings call as we get closer towards the end of the year. 
+
+Operator: Your next question comes from the line of Andrew Jeffrey with William Blair. Please go ahead.   
+
+Andrew Jeffrey, William Blair: Hi, appreciate you taking the question. Happy to be on my first Coinbase call 
+here, I apologize I missed some of the initial public call so if I'm a little repetitive, please bear with me. I actually 
+had a two-part question on stablecoins. One is, internally USDC, in particular, I kind of agree with your view 
+that it's a question of when rather than if stablecoins become more ubiquitous for commerce whether that's 
+consumer payments or cross-border B2B payments, remittances, whatever the case may be. As you're 
+planning internally in investing around that potential, how do you kind of think about timing and time frame? It 
+seems very indeterminate, but I think if anybody has a view it's probably Coinbase. And then the second part of 
+the question is, as more entities talk about issuing their own stablecoins, does the proliferation of stablecoins 
+and fragmentation of the ecosystem change the monetization for Coinbase? How do you think about that if 
+there isn't a standard around USDC as one of two or three commerce or payment coins out there? 
+
+Alesia Haas, CFO: Great questions, Andrew. Welcome to our calls. Around the timing around growth of 
+payments, these things are very hard to predict with any accuracy. But what I will say is that we've seen 
+increasing momentum and that comes from both the technology getting stronger. We now have layer 2s like 
+Base that are in milliseconds of payment confirmation timelines and millicents of transaction costs. 
+
+This comes from regulatory clarity with the Genius Act now coming into law that people now feel confident in 
+using these as payment stablecoins which brings a lot of corporations and banks and others into the space 
+because they can recognize this as a payment asset. And we're starting to get commercial adoption. I think 
+that what you can look at in our own quarter is we now have a stack of APIs and a business account. We have 
+a partnership with Shopify where they're enabling merchants to use USDC within their technology and we're 
+beginning to build out that distribution network of retail merchants all being able to then transact on these 
+stablecoin rails. So, we're seeing growth and momentum, but it needed to get to that level of infrastructure 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+around milliseconds, millicents and to get to regulatory clarity to unlock what we think is the true potential of 
+growth. 
+
+So now our goal is to make this easier to use, bring on more distribution partners, and USDC is the most 
+compliant, largest, US regulated stablecoin and we think that that network effect gives us an opportunity to 
+really win here.  
+
+When I then think about your second part of your question around fragmentation, I think with any new 
+technology, you often see a lot of fragmentation, then you see consolidation, and I think that's what you will see 
+here. I think ultimately we believe that this USDC has a network effect that we have multiple distribution 
+partners and that gives us a really large opportunity to win in this space. We are believers in needing to share 
+economics. We have a robust reward program and we are happy to bring new distribution partners on our 
+platform to partner with them to give them an opportunity to build in USDC. And I think that's what really 
+differentiates us in the market right now. 
+
+For our own opportunities, I think that we partner with other stablecoins as well and that we are asset agnostic 
+and have opportunities to monetize in many ways if there is a fragmentation of these stablecoins. But long 
+term, we think it's good for consumers to have a more consolidated interoperable network opportunity. 
+
+Operator: Your next question comes from the line of Gus Gala with Monness, Cresby, & Hardt. Please go 
+ahead.  
+
+Gus Gala, Monness, Cresby, & Hardt: Hey, thank you for taking my question. So one on Base. Do we - it 
+seems like Base allows enough of a price umbrella for fraud and chargeback mechanisms or players in the 
+ecosystem to develop stuff around that, right, to overlay on the Base chain as it relates to capturing B2B 
+payments, right, and then comparing that to the price of existing wire systems and RTP. Does Coinbase have 
+any interest in building that house? The fraud and chargeback capacity?  I think something will be pretty 
+important in terms of journeying into that TAM. Thanks. 
+
+Alesia Haas, CFO: It's a great question. So I think we think about Base chain as a network. It's a protocol. It's 
+no different than a telecom network or the SWIFT network or the Visa network. It's a network. That is where the 
+transaction sits, it's just technology, will confirm. But absolutely, layered on top of that network, there is 
+opportunity to build value added services such as fraud and chargeback. But that would be built in a product on 
+top of the Base network. As we build out our business product suite and the APIs that Brian mentioned in his 
+opening comments, those are opportunities for us to build more deeply into that space, but also others could 
+build on top of Base in a similar way and offer products and services for payments on top of Base. 
+
+Operator: Your next question comes from the line of Alex Markgraff with Key Bank Capital Markets. Please go 
+ahead.  
+
+Alex Markgraff, Key Bank Capital Markets: Thanks, Alesia. Maybe one on the Coinbase One card. Just the 
+reward structure being quite attractive. Just be curious to understand how the economics might look around 
+that considering the combination of subscription pricing too? And then just thoughts around the sort of timing of 
+and willingness to scale the consumer credit portfolio around that? Thanks. 
+
+Alesia Haas, CFO: Great. So we're really excited about the Coinbase One card. It's going to offer 4% cash 
+back as Bitcoin rewards. We really look at this card as an engagement mechanism to drive the Coinbase One 
+subscription growth. And this will enable people to use and transact in crypto. It'll drive what we hope is deeper 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+engagement on our platform, more adoption of USDC, more adoption of crypto products and services. From a 
+direct monetization perspective, we don't anticipate this being a material contributor independently to our P&L.  
+It will monetize through broader engagement of the other products and services on the platform. 
+
+The other thing to note about this is that we are not the credit provider of this card and so you will not see a 
+balance buildup or credit losses coming from this program on our balance sheet. 
+
+Operator: Your next question comes from the line of Craig Siegenthaler with Bank of America. Please go 
+ahead.  
+
+Craig Siegenthaler, Bank of America: Thanks, good evening everyone. So I had a question on new store 
+sales versus same store sales and you may not look at it that way but with monthly transacting users only up 
+6% year-on-year but assets on platform 63% higher, I'm just wondering as you see asset appreciation and 
+inflows from existing clients as the primary driver of growth in the future versus your ability to expand your 
+client base? 
+
+Alesia Haas, CFO: Great question. We absolutely believe that our unique ability to store assets is a long-term 
+growth driver for us. We store a disproportionate amount of crypto assets compared to our next nearest 
+competitors. And I think that our long history of being the most trusted service provider in the space gives us a 
+unique ability to do that. Many of our customers are what we call hodl’ers. They buy, they’re looking for a 
+long-term investment, and those assets, they don't need to trade every single week, every single month, even 
+sometimes over years.  
+
+We have a different group of customers that are speculators and they are active traders on our platform looking 
+for unique price arbitrage opportunities in the market and we want to serve them as well. The ability to bring in 
+new users we believe is heavily correlated with utility in crypto which is why we have been actively building out 
+payments for example with USDC, offering the ability to use a Coinbase card, staking, all of these other things. 
+Each incremental product tends to drive new adoption of users. In addition, we see new users come into crypto 
+in waves around the price cycles of crypto assets. 
+
+So having the assets on platform we believe gives us a sticky base to attach new products and services into 
+our users as we develop new use cases and utility in crypto. 
+
+Operator: Your next question comes from the line of Bo Pei with US Tiger Securities Inc. Please go ahead.  
+
+Bo Pei, US Tiger Securities Inc.: Hi, thanks for taking my question. So I have a follow up on the tokenized 
+equity. So how do you plan to source the underlying stocks that actually back these tokens? Will you acquire 
+them using your own balance sheet or through the sort of stock borrowing agreements with institutional 
+partners? And then are there any technical or regulatory challenges you foresee in supporting features like 
+voting rights and dividend distributions onchain? Thank you. 
+
+Alesia Haas, CFO: Thanks for these questions. These are the really important conversations we're having 
+both internally with our teams on the technology build as well as with regulators on what we need to see 
+enacted into regulation or law for us to bring securities onchain.  
+
+We are building to a future where everything is onchain including voting, including dividends, but that will be a 
+process to get there and we are pioneering kind of the way forward. It is too early to share with you our 
+roadmap on whether or not we believe that we will do this in a wrapped way which would require sourcing the 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+equities and holding them on our platform using our balance sheet, or if we were going to pursue more of a 
+native issuance onchain.  
+
+We will share roadmap with you in coming days, but we are deeply engaged in the regulatory conversations 
+and the technical builds to bring this to market so we can bring all assets onchain. 
+
+Operator: Your next question comes from the line of Joseph Vafi with Canacor Genuity. Please go ahead. 
+Joseph, your line is open.  
+
+Joseph Vafi, Canaccord Genuity. Yes, thanks. Hi Alesia, Anil, thanks for taking the questions here. Maybe 
+one more application for the Base layer 2 should be bringing earnings conference calls onchain.  
+
+But, just a question on the relationship with Circle. Clearly a deep relationship – you have an equity position. 
+You're a big distribution partner. You're pretty attached at the hip, but at the same time, it feels like, at some 
+point there's going to be a little bit of butting of heads on a competitive side here, just as you know, they're 
+building out a payments network over there and clearly you have large ambitions with your platform on 
+payments. You're both going to have sets of APIs for merchants, etc. Just kind of wondering how you and your 
+partner are thinking about this as the market expands and maybe you have more competitive touch points.  
+Thanks. 
+
+Alesia Haas, CFO: Great question. Circle is a very important commercial partner to us. We were co-founders 
+of USDC and are really pleased with the growth we've seen over the past seven years to bring USDC to over 
+$60 billion of market cap. You're right, we may have products that compete, but we are both incentivized to 
+grow USDC's total market share, grow the number of distribution partners, grow utility on this asset.  
+
+USDC, at the end of the day, is an important utility layer of overall crypto innovation. So, we believe that the 
+waterfall that we shared in our shareholder letter really shows how these are unique business opportunities for 
+each of us. So we are benefited by growing assets on our own platform. We are benefited equally by growing 
+the overall ecosystem because the more USDC in circulation leads to a growing number of USDC coins held 
+off platform, in which we share with 50% of the economics and Circle does as well. So, we're both incentivized 
+to continue to grow that share. 
+
+Operator: Your next question comes from the line of Pete Christensen with Citi. 
+
+Pete Christiansen, Citi: Thank you, good evening. Alesia – CLARITY looks pretty favorable for Coinbase all 
+around, just curious if there's anything within the House's version of the bill that we should be aware of from a 
+financial operating perspective that perhaps may do some changes on the business? And then as a follow up 
+as, it heads to the Senate, which sounds like it might be a bit more work, have you come across any pressure 
+from Senators, or what have you, questioning the vertically integrated model, the combination of the broker 
+dealer and the exchange? Just curious if you're seeing any pressure there. Thank you. 
+
+Alesia Haas, CFO: We are really excited about CLARITY and we are actively engaged in conversations to 
+help drive it in a direction that we think is beneficial for the overall ecosystem. I want to point to a couple recent 
+speeches. So, Chair Atkins today shared that he's supportive of a vertical ecosystem, that he wants to be able 
+to trade all assets side by side, securities, commodities, etc. So, I do think there is momentum towards our 
+vision of the future and really what customers want. Customers want to see all these assets in one place.  
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+So, right now, I would say we have really good momentum in the direction that we think that we need to go in. 
+And I want to also just share though, we're going to see CLARITY take years to implement. There'll be 
+rulemaking. We'll have effective dates. We'll have transition, and so as it impacts our business model, I think 
+we will see this play out quarter-over-quarter for the next period of time.  
+
+But really excited by the momentum that you're seeing coming out of the White House. President Trump is 
+delivering on his campaign goals to really drive crypto legislation in the US, and making the US a place where 
+crypto is going to thrive, and hopefully be the center of innovation of the world for this asset class. 
+
+Operator: Your next question comes from the line of Mike Colonnese with HC Wainwright. 
+
+Mike Colonnese, HC Wainwright: Really on USDC, really a follow up to Joe's question earlier. Alesia, if you 
+could just remind us when your current distribution agreement with Circle is up for renewal and do you see any 
+risks to Coinbase potentially getting less lucrative economics from the arrangement down the road, especially 
+as USDC and the network continues to scale? 
+
+Alesia Haas, CFO: Great question. So, our contract is a perpetually renewing contract where if there were 
+going to be any changes, we would both – Coinbase and Circle – have to agree to make changes in the 
+contract. It perpetually renews as long as we meet minimum product requirements that we have in our control 
+to continue to provide for. 
+
+Operator: Your final question comes from the line of Alex Markgraff at Key Banc Capital Markets. Please go 
+ahead.  
+
+Alex Markgraff, Key Bank Capital Markets: Thanks for squeezing in a second one for me. Alesia, maybe on 
+the opex side of things. Heard the comments on tech & dev and G&A and just sort of some of the hiring. I know 
+you don't guide to that beyond the next quarter, but just thinking about sort of where you guys are in the 
+investment cycle to help us contemplate what that line could look like in the next several quarters would be 
+helpful. Thanks. 
+
+Alesia Haas, CFO: Thanks for the question. So this year was an investment year for us and we stated in the 
+beginning of the year, Brian I think even shared that we plan to hire a thousand people in the US for example. 
+So this is a year where we were really driving headcount growth to really go after the breadth of opportunities 
+that we see in the market that has been enabled by regulatory clarity and also just the advancement of 
+technology. It's too early to provide for an outlook on expenses in 2026. But I would say that I think this is a 
+heightened year of investment. 
+
+Operator: Your next question comes from the line of Chris Brendler with Rosenblatt. Please go ahead.  
+
+Chris Brendler, Rosenblatt: Hi, good evening. Thanks for taking my question. I wanted to ask about the 
+elevated level of transaction expenses in I think the 10-Q - or the shareholder letter - it indicates there was 
+rebates and incentives to build open interest in the derivatives business? So could you just give us a little more 
+color there? And is that potentially driving an increase in take rates since derivatives are not included in volume 
+I believe? So as revenues start to increase from derivatives I would think it would have an impact on that 
+calculation of revenue per volume. Thanks. 
+
+Alesia Haas, CFO: Great question. So there was not a material impact on the overall institutional revenue as it 
+compared to institutional volume this quarter. These rebates and expenses we had anticipated being contra 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+revenue and that was the guidance we had given on our Q1 earnings call but due to the design of the incentive 
+programs and the mix of client activity they were recorded instead as transaction expenses which drove up the 
+transaction expense as a percent of transaction revenue to be at 17%, slightly higher than it had trended for 
+the last few quarters. 
+
+The goal here is, as we previously have shared, is we're trying to drive liquidity in our derivatives exchange, 
+drive market share. We expect those incentives to not run at the same level for the long term, but this is an 
+area of investment and growth for us right now.  
+
+Anil Gupta, Vice President, Investor Relations: Okay, I think that's all the questions we have for this call. So, 
+thanks everyone for joining and we look forward to speaking to you next quarter. 
+
+6 
+
+ 
+ 
+ 
+
